@@ -1,0 +1,2 @@
+export default `@font-face{font-family:TimeBurner;src:url(/assets/fonts/Timeburner-xJB8.ttf)}@font-face{font-family:TimeBurner-Bold;src:url(/assets/fonts/TimeburnerBold-peGR.ttf)}body{margin:0;padding:0}
+`;
